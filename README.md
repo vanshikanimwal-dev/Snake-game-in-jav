@@ -53,7 +53,7 @@ SnakeGame/
 ├── Food.java            // Food positioning
 └── README.md            // This file
 👨‍💻 Author
-Your Name — @yourhandle
+ vanshika nimwal
 
 📃 License
 This project is open-source and free to use under the MIT License.
